@@ -1,0 +1,16 @@
+collect data
+
+
+preproccecss data
+
+model
+
+train 
+
+test
+
+save model
+
+
+
+
